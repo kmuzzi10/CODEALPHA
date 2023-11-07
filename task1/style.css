@@ -1,0 +1,57 @@
+.back{
+    background-image: url("./23241.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 100px;
+    background-attachment: fixed;
+}
+
+#navbar{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hcon{
+    margin-top: 200px;
+    color: aliceblue;
+    text-align: right;
+    position: relative;
+    right: -600px;
+}
+#cards{
+    margin-top: 100px;
+}
+
+.cardcon{
+    text-align: center;
+}
+
+.img-card{
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+#contact{
+    margin-top: 100px;
+}
+
+.contact-back{
+    color: aliceblue;
+    background-image: url("./contact.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 100px;
+    background-attachment: fixed;
+}
+
+.footer {
+    margin-top: 300px;
+    background-color:black;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
